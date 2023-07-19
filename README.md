@@ -1,6 +1,6 @@
 # ML Performance Calculator App
 
-This app calculates model performance metrics like accuracy, balanced accuracy, precision, recall, MCC, F1, and Cohen Kappa from inputted actual and predicted values. Available at: 
+This app calculates model performance metrics like accuracy, balanced accuracy, precision, recall, MCC, F1, and Cohen Kappa from inputted actual and predicted values. Available at: https://ml-performance-calculator.streamlit.app/ 
 
 ## Inspiration
 
